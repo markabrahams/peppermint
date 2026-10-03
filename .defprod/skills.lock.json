@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "skills": {
+    "defprod-analyze-discrepancies": {
+      "SKILL.md": "dbe17f7ad3242d0cc1529f3b3e5099e425bf49da19a9b34c82b91653e94413a8"
+    },
+    "defprod-change": {
+      "SKILL.md": "b342dfa72c92f7c3fdf0a81a5350eb514f60d2f70810d517c1cb83b72b6aed94"
+    },
+    "defprod-change-code": {
+      "SKILL.md": "dfe3f976baae29fa7049f2789d23acfded3986369a2bc62138f445fd1ffd38ad"
+    },
+    "defprod-change-define": {
+      "SKILL.md": "fb7d2b02993eab3244c2f79ef64e404f5d4adfdbce15d0db6244f0f1d97760bc"
+    },
+    "defprod-change-design": {
+      "SKILL.md": "3a7bb22c67653f3c6330de9162e6a2a08d59415bd17d96f2a6f43219cc35bb89"
+    },
+    "defprod-change-land": {
+      "SKILL.md": "86a0a57c7289146b6f597bc8d532cd4cb685bb682c9b632803058b42015f06da"
+    },
+    "defprod-change-review": {
+      "SKILL.md": "dad672b6859622a6e1aa4f8e7d3096d56fabc873262cd53f21a99eee1633c5d9"
+    },
+    "defprod-change-test": {
+      "SKILL.md": "71270c0ee510a6cd39573e1d23eb30ba3203d8995505baf76e564ce81f5c797e"
+    },
+    "defprod-change-tracker": {
+      "SKILL.md": "60e5598061c2cc4c770ca577c65e16f6ffd20b22df3760f5a1b9ba7e3fd161f0"
+    },
+    "defprod-create-api-tests": {
+      "SKILL.md": "666d1b1e7090e590f16730676db4bbe36cfb67325908e816049cdffb88bda60a"
+    },
+    "defprod-create-area-stories": {
+      "SKILL.md": "be7fb1fcd6932c55467ede38627e5d756efbb1a25741086c26000dd0073baa06"
+    },
+    "defprod-create-area-tests": {
+      "SKILL.md": "1b7d0641270c954a10630ac38854661db2c65f253a90cd98397e80ecfd6e3c9e"
+    },
+    "defprod-create-cli-tests": {
+      "SKILL.md": "f6f6a41fec315c6e19babdbf581e4bb885721f98437c654e267ec1e6af7f8017"
+    },
+    "defprod-create-definition": {
+      "SKILL.md": "c2be7cdd72641a32419a8c66ac2454ff3f1b77806f18c69434939e8e05a8207e"
+    },
+    "defprod-create-mcp-tests": {
+      "SKILL.md": "185a539a835136abf08cb69d12426d94b3e442c1a0862783af2c594eb4238609"
+    },
+    "defprod-create-ui-tests": {
+      "SKILL.md": "ad36252d5cd3f3817a50959e11d3d88367003db6d430e518a731b247f9aabee9"
+    },
+    "defprod-exhaustive-discussion": {
+      "SKILL.md": "b4fa49acece0ec4385b05e9a4f773a722907b9fb5fe5933090c1686a6af27a04"
+    },
+    "defprod-fix-bug": {
+      "SKILL.md": "0bcd3b91b24e1b6f7ebb24a18a0c29f38fca4f18b8ec9cb47d8de74065e592c3"
+    },
+    "defprod-fix-discrepancies": {
+      "SKILL.md": "1736905f349932db0159a427741da4b06e04124031bf43b3c60cee0ddf1891c7"
+    },
+    "defprod-fix-test-failures": {
+      "SKILL.md": "6b831bb0d5466466d57104f4c2c8b076ef8c4e8c6a88204df348544d76850d2d"
+    },
+    "defprod-implement-feature": {
+      "SKILL.md": "a3fc601682b7d452ca8aa3fbb6840386891c8d3f6468822a169b866a1667a756"
+    },
+    "defprod-implement-product": {
+      "SKILL.md": "e535d84358f8cbaa07b7498c32d4f2dd2deea4a12305a4d713529e02ec9dfb20"
+    },
+    "defprod-onboard-product": {
+      "SKILL.md": "17bc25fd229f50994631db3a0f5a80ecc3dbf639c5a2e32702e303f3bbc396cd"
+    },
+    "defprod-onboard-repo": {
+      "SKILL.md": "0117c84a61da0a1ff541932f7a6d0548ce71c77902f4645a01031586755553f3"
+    },
+    "defprod-realize-product-from-template": {
+      "SKILL.md": "b1a319ea33fd0b9da2aa7668500dada1286f61563e4de3ea9adca8f155b6d9cb"
+    },
+    "defprod-run-area-tests": {
+      "SKILL.md": "76db81e590ef67befbadb318bccb656fec858caa0467cdc41e565b3a192dba55"
+    },
+    "defprod-sync-story-test-status": {
+      "SKILL.md": "214077d368e9cc931fc2c995ecce07696d7fd89a44efec650df3181358889ef0"
+    },
+    "defprod-untracked-change": {
+      "SKILL.md": "4577d0138f8baf01b70c0a779c1eaa2a84c8f63a3542799d24962ff5ff41af23"
+    }
+  }
+}
