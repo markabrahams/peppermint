@@ -147,7 +147,7 @@ export default function Ticket() {
   // const [uploaded, setUploaded] = useState<any>();
   const [priority, setPriority] = useState<any>();
   const [ticketStatus, setTicketStatus] = useState<any>();
-  const [comment, setComment] = useState<any>();
+  const [comment, setComment] = useState<string>("");
   const [timeSpent, setTimeSpent] = useState<any>();
   const [publicComment, setPublicComment] = useState<any>(false);
   const [timeReason, setTimeReason] = useState("");
@@ -290,6 +290,7 @@ export default function Ticket() {
 
   async function addComment() {
     if (data && data.ticket && data.ticket.locked) return;
+    if (!comment.trim()) return;
 
     const res = await fetch(`/api/v1/ticket/comment`, {
       method: "POST",
@@ -312,6 +313,7 @@ export default function Ticket() {
       });
       return;
     }
+    setComment("");
     refetch();
   }
 
@@ -1146,7 +1148,7 @@ export default function Ticket() {
                                       ? "This ticket is locked"
                                       : "Leave a comment"
                                   }
-                                  defaultValue={""}
+                                  value={comment}
                                   onChange={(e) => setComment(e.target.value)}
                                   disabled={data.ticket.locked}
                                 />
